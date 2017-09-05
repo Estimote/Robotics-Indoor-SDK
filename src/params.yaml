@@ -1,0 +1,5 @@
+/cloud/app_id: 'Paste your App ID here'
+/cloud/app_token: 'Paste your App Token here'
+/cloud/location_id: 'Paste your Location identifier here'
+/cloud/url: 'https://cloud.estimote.com'
+/port/serial_port: '/dev/ttyUSB0'
