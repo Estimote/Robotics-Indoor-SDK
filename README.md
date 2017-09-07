@@ -10,7 +10,7 @@ We are working on support for other platforms, contact us if you need support fo
 
 ### Detailed documentation
 Instructions how to prepare your hardware setup and
-detailed documentation of the system could be found at our developer portal: LINK_TO_DOCUMENTATION
+detailed documentation of the system could be found at our developer portal: http://developer.estimote.com/robotics/
 
 ### Quick installation guide
 0. Make sure you have installed ROS and configured Catkin workspace on your Raspberry Pi.
