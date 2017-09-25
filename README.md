@@ -15,7 +15,7 @@ detailed documentation of the system could be found at our developer portal: htt
 ### Quick installation guide
 0. Make sure you have installed ROS and configured Catkin workspace on your Raspberry Pi.
 1. Download content of this repository and save as `estimote_robotics_indoor_sdk` folder inside `src/` folder in your catkin workspace (referred later as `$CATKIN_WORKSPACE`)
-2. Move executable `.so` file from architecture directory in `src/lib/` to `src/`
+2. Edit `src/runner.py` and choose which architecture version of `indoor_robotics_sdk.so` you want to execute by uncommenting it and commenting other versions.
 3. Run `$ catkin_make` from your catkin workspace.
 4. Open three separate terminals, run `$ roscore` in first and use last two in steps described below.
 5. Start the positioning node:
