@@ -2,7 +2,7 @@
 
 ### Overview
 This repository contains ROS Package of Robotics Indoor SDK developed by Estimote.
-</br>Package is currently compiled to support RaspberryPi 3 (armv7l GNU/Linux).
+</br>Package is currently compiled to support RaspberryPi 3 (armv7l GNU/Linux) and x86 devices (ex. Ubuntu PCs).
 
 ### Feedback and support
 We are working on support for other platforms, contact us if you need support for specific hardware.
