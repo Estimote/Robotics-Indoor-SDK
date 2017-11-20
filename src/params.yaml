@@ -3,3 +3,4 @@
 /cloud/location_id: 'Paste your Location identifier here'
 /cloud/url: 'https://cloud.estimote.com'
 /port/serial_port: '/dev/ttyUSB0'
+/beacons/panid: 'Paste the PanID value displayed in the Estimote Indoor app after enabling the robotics mode"
