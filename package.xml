@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>estimote_robotics_indoor_sdk</name>
-  <version>0.1.0</version>
+  <version>0.4.1</version>
   <description>Estimote Robotics Indoor SDK</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
