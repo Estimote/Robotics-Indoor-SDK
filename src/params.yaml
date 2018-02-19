@@ -7,3 +7,5 @@
 # The recommended beacon placement height is 2.1 meter. 
 # If for some reason you have to place them higher or lower pleace change this value.
 /beacons/placement_height: 2.1
+# indoor | outdoor | mixed - choose the one that describes your scenario.
+/beacons/environment: 'indoor'
