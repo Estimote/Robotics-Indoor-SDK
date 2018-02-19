@@ -5,5 +5,5 @@
 /port/serial_port: '/dev/ttyUSB0'
 /beacons/panid: 'Paste the PanID value displayed in the Estimote Indoor app after enabling the robotics mode'
 # The recommended beacon placement height is 2.1 meter. 
-# If for some reason you have to place them higher or lower pleace change this value.
+# Change this value if for some reason you have to place them higher or lower.
 /beacons/placement_height: 2.1
